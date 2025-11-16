@@ -1,3 +1,5 @@
+## ⚠️ This whole repo was vibe-coded. Use at your own risk
+
 set-pam-password-policy
 
 This small utility writes a conservative pwquality config and ensures PAM uses pam_pwquality.so on Ubuntu.
